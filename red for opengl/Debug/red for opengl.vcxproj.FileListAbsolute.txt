@@ -1,0 +1,2 @@
+C:\Users\katie\source\repos\red for opengl\Debug\red for opengl.exe
+C:\Users\katie\source\repos\red for opengl\Debug\red for opengl.pdb

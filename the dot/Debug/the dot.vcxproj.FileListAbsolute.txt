@@ -1,0 +1,2 @@
+C:\Users\katie\source\repos\the dot\Debug\the dot.exe
+C:\Users\katie\source\repos\the dot\Debug\the dot.pdb

@@ -1,0 +1,2 @@
+C:\Users\katie\source\repos\opengl triangle\Debug\opengl triangle.exe
+C:\Users\katie\source\repos\opengl triangle\Debug\opengl triangle.pdb

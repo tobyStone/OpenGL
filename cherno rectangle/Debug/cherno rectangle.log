@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Source1.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  cherno rectangle.vcxproj -> C:\Users\katie\source\repos\cherno rectangle\Debug\cherno rectangle.exe

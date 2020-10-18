@@ -1,0 +1,2 @@
+C:\Users\katie\source\repos\cherno rectangle\Debug\cherno rectangle.exe
+C:\Users\katie\source\repos\cherno rectangle\Debug\cherno rectangle.pdb

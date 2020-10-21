@@ -1,0 +1,2 @@
+C:\Users\katie\source\repos\red cube opengl\Debug\red cube opengl.exe
+C:\Users\katie\source\repos\red cube opengl\Debug\red cube opengl.pdb

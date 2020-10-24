@@ -1,0 +1,5 @@
+﻿  main.cpp
+  utils.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  100,000 instances of rolling coloured cubes.vcxproj -> C:\Users\katie\source\repos\100,000 instances of rolling coloured cubes\Debug\100,000 instances of rolling coloured cubes.exe

@@ -1,0 +1,5 @@
+﻿  main.cpp
+  utils.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  cube and pyramid2.vcxproj -> C:\Users\katie\source\repos\cube and pyramid2\Debug\cube and pyramid2.exe

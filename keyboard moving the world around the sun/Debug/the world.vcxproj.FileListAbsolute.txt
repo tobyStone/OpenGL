@@ -1,0 +1,4 @@
+C:\Users\katie\source\repos\the world\Debug\the world.exe
+C:\Users\katie\source\repos\the world\Debug\the world.pdb
+C:\Users\katie\source\repos\the world around the sun\Debug\the world.exe
+C:\Users\katie\source\repos\the world around the sun\Debug\the world.pdb

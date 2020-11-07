@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\katie\source\repos\the world around the sun\main.cpp(162,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katie\source\repos\the world around the sun\main.cpp(163,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katie\source\repos\the world around the sun\main.cpp(164,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katie\source\repos\the world around the sun\main.cpp(241,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katie\source\repos\the world around the sun\main.cpp(271,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  the world.vcxproj -> C:\Users\katie\source\repos\the world around the sun\Debug\the world.exe

@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\katie\source\repos\mouse moving planet\main.cpp(171,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katie\source\repos\mouse moving planet\main.cpp(172,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katie\source\repos\mouse moving planet\main.cpp(173,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katie\source\repos\mouse moving planet\main.cpp(248,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\katie\source\repos\mouse moving planet\main.cpp(249,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\katie\source\repos\mouse moving planet\main.cpp(253,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katie\source\repos\mouse moving planet\main.cpp(254,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katie\source\repos\mouse moving planet\main.cpp(255,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\katie\source\repos\mouse moving planet\main.cpp(256,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\katie\source\repos\mouse moving planet\main.cpp(281,17): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\katie\source\repos\mouse moving planet\main.cpp(295,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\katie\source\repos\mouse moving planet\main.cpp(331,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  mouse moving planet.vcxproj -> C:\Users\katie\source\repos\mouse moving planet\Debug\mouse moving planet.exe

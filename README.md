@@ -5,5 +5,8 @@ Following 'Computer Graphics Programming in OpenGL with C++', 'Cherno Youtube', 
 ![](torusandlight.gif)
 
 
+![](EARTHAROUNDSUN.gif)
+
+
 
 ![](100000cubes.gif)
